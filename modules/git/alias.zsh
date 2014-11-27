@@ -67,7 +67,7 @@ alias gCT='gCt $(gCl)'
 
 # Data (d)
 alias gd='git ls-files'
-alias gdc='git ls-files --cached'
+# alias gdc='git ls-files --cached'
 alias gdx='git ls-files --deleted'
 alias gdm='git ls-files --modified'
 alias gdu='git ls-files --other --exclude-standard'
