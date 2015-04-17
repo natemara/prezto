@@ -156,6 +156,9 @@ alias gss='git stash save --include-untracked'
 alias gsS='git stash save --patch --no-keep-index'
 alias gsw='git stash save --include-untracked --keep-index'
 
+# status
+alias gt='git status'
+
 # Submodule (S)
 alias gS='git submodule'
 alias gSa='git submodule add'
