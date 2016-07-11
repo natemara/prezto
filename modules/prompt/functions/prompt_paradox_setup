@@ -119,5 +119,3 @@ function prompt_paradox_setup {
 }
 
 prompt_paradox_setup "$@"
-
-

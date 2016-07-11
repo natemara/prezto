@@ -49,5 +49,4 @@ fi
 # Aliases
 #
 
-#alias py='python'
-
+alias py='python'
